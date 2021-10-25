@@ -21,7 +21,7 @@ function populateList(countries)
 	})
 	const countriesList=document.querySelector("#countries-list");
 	countriesList.appendChild(countriesFragment);
-}
+} //end of populateList, do not remove this line
 
 function init(){
 	loadData("data/countries.json",populateList);
