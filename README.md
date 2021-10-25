@@ -7,6 +7,7 @@ This repository contains a JavaScript application that features two pages and dy
 
 Now try the following:-
 * Can you make changes to the JSON file(s)
+  * Add another country. Test this works. 
   * Add another property e.g. *continent* for each country.
   * Modify the JavaScript code so that the continent information is displayed for each country along with capital and population.
 
