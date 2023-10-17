@@ -12,4 +12,4 @@ Now try the following:-
   * Modify the JavaScript code so that the continent information is displayed for each country along with capital and population.
 
 * Can you use the SWAPI API that we used last week - https://www.swapi.tech/ instead of hard-coded JSON files.
-  * You will need to pass the id number of a vehicle in the query string e.g.  https://www.swapi.tech/api/vehicles/ for the first request on the index page, and then requests for specific vehicle on the details page e.g. https://www.swapi.tech/api/vehicles/4.
+  * You will need to load all the vehicles i.e.  https://www.swapi.tech/api/vehicles/ for the first request on the index page, and then requests for specific vehicle on the details page e.g. https://www.swapi.tech/api/vehicles/4.
